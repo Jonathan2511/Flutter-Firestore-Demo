@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016587569858",
+    "project_id": "fir-flutter-demo-bfa61",
+    "storage_bucket": "fir-flutter-demo-bfa61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016587569858:android:74069e0d802ab02654c95b",
+        "android_client_info": {
+          "package_name": "com.jonathan.firestore_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzyRczfOvfPjaiqeP3iqn-6p7n-LfXdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
